@@ -1,4 +1,4 @@
-# Snoopi-php-sdk
+# Snoopi.io PHP SDK
 PHP SDK For Snoopi GeoLocation
 
 Founded in 2015, Snoopi is a GeoIP Webservice that allows web developers to retrieve a user’s location via ip address in a non-intrusive way. It’s a great for marketing solutions such as tracking users on landing pages, sign-ups, contact forms, to something as more complex to fraud detection for eCommerce platforms. IP Addresses can be translated into Country, City, Latitude, Longitude, Zip Code, TimeZone etc..
