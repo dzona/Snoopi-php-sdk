@@ -27,7 +27,7 @@ class Snoopi {
 public function send_request($url, $data="") { 
 		$data['apikey']=$this->api_key;
 	    $URLQuery =  urldecode(http_build_query($data, '', '&'));
-		 echo $url . "?" . $URLQuery;  #Test
+		//  echo $url . "?" . $URLQuery;  #Test
 
         // create curl resource
         $ch = curl_init();
