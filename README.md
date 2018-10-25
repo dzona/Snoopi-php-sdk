@@ -7,10 +7,10 @@ There’s a lot of providers out there that provide GeoIP solutions, however wha
 
 --------------------------------------------------------------------------------------------------------
 
-		$Snoopi = new Snoopi(); 
-		
-		$GeoLocation = $Snoopi->GeoIPLocation('186.83.228.58');
-		print_r(json_decode($GeoLocation));
-		echo "<hr>";
+	$Snoopi = new Snoopi(); 
+	
+	$GeoLocation = $Snoopi->GeoIPLocation('186.83.228.58');
+	print_r(json_decode($GeoLocation));
+	echo "<hr>";
     
     

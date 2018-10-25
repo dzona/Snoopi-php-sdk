@@ -1,0 +1,16 @@
+{
+	"name": "snoopi/snoopi-io/snoopi-php-sdk",
+	"type": "Snoopi-php-sdk",
+	"description": "Snoopi.io Free GeoIP API",
+	"keywords": ["geoip", "geolocation"],
+	"homepage": "https://github.com/Snoopi-io/Snoopi-php-sdk",
+	"license": "MIT",
+	"authors": [{
+		"name": "Snoopi.io",
+		"homepage": "http://www.snoopi.io"
+	}],
+	"require": {
+		"php": ">=5.4.0"
+	}
+
+}
